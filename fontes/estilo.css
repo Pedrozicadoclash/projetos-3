@@ -1,0 +1,16 @@
+@font-face {
+    font-family:perpetua;
+    src: url(fontes/perpetua-bold-italic.ttf);
+}
+body{
+    background-image: url(../imagens/240925.jpg);
+    background-size: cover;
+}
+.ti{
+    font-family:perpetua;color: white;
+}
+li{
+    color: aliceblue;
+    font-family:perpetua;color: white;
+    text-shadow: 0.1em 0.1em black;
+}
